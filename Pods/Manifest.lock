@@ -1,0 +1,13 @@
+PODS:
+  - MJRefresh (3.1.0)
+  - SDAutoLayout (1.53)
+
+DEPENDENCIES:
+  - MJRefresh (~> 3.1.0)
+  - SDAutoLayout (~> 1.53)
+
+SPEC CHECKSUMS:
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  SDAutoLayout: ea6e2ae9fbb438aa2feb0c4363dba9297e98638a
+
+COCOAPODS: 0.39.0
